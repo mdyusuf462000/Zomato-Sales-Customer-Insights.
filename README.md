@@ -1,35 +1,35 @@
 # Zomato-Sales-Customer-Insights.
 Zomato Sales &amp; Customer Insights. Cleaned data using Python (Pandas). Connected Python with Sql &amp; used Aggregation. Exported cleaned data csv. Built Power BI dashoard with DAX
-Project Overview
+# 📊 Zomato Sales & Customer Insights
 
-Is project me Zomato ke sales aur customer behavior ka analysis kiya gaya hai.
+This project analyzes Zomato sales data to extract meaningful insights. The data was cleaned, processed, and visualized using *Python, SQL, and Power BI*.
 
-Technologies Used:
+## 🚀 Project Overview  
+- *Data Cleaning*: Handled missing values, removed duplicates, and standardized data using Python (Pandas).  
+- *SQL Integration*: Connected Python with SQL and performed aggregation queries.  
+- *Export to CSV*: Cleaned data saved as a CSV for further analysis.  
+- *Power BI Dashboard: Created interactive visualizations and used **DAX* for sales estimation.  
 
-Python (Pandas, SQLAlchemy) → Data Cleaning & Missing Values Handle
+## 🛠 Technologies Used  
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL (Aggregation, Joins)  
+- Power BI (Dashboards, DAX)  
 
-SQL (MySQL/PostgreSQL) → Data Aggregation & Querying
+## 📌 Steps Followed  
+1. *Data Cleaning:* Identified and handled missing values.  
+2. *Data Processing:* Connected Python to SQL and applied aggregation functions.  
+3. *Data Export:* Saved the processed data as a CSV file.  
+4. *Visualization:* Built Power BI Dashboard with *KPIs and Charts*.  
 
-Power BI → Dashboard Visualization & DAX for Sales Calculation
+## 📊 Power BI Dashboard  
+(Screenshot yaha add karo)  
 
+## 📂 Project Files  
+- Zomato Sales & Customer Insights.ipynb → Jupyter Notebook for data cleaning & SQL queries  
+- README.md → This file (project documentation)  
+- cleaned_data.csv → Final processed dataset  
 
-Steps Followed:
-
-1. Data Cleaning in Python: Missing values fill kiye, outliers remove kiye.
-
-
-2. Connected Python with SQL: SQL database me data store kiya & Aggregation functions use kiye.
-
-
-3. Exported Cleaned Data as CSV.
-
-
-4. Power BI Dashboard: Data visualize kiya aur DAX se total sales estimate nikala.
-
-
-
-Project Files:
-
-Zomato Sales & Customer Insights.ipynb → Jupyter Notebook with all steps
-
-Dashboard.pbix → Power BI Dashboard file
+## 🔥 How to Run This Project  
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/mdyusuf462000/Zomato-Sales-Customer-Insights.git 
