@@ -22,7 +22,7 @@ This project analyzes Zomato sales data to extract meaningful insights. The data
 4. *Visualization:* Built Power BI Dashboard with *KPIs and Charts*.  
 
 ## 📊 Power BI Dashboard  
-(Screenshot yaha add karo)  
+![Power BI Dashboard](https://github.com/mdyusuf462000/Zomato-Sales-Customer-Insights./blob/main/Dashboard.jpg) 
 
 ## 📂 Project Files  
 - Zomato Sales & Customer Insights.ipynb → Jupyter Notebook for data cleaning & SQL queries  
